@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Crypto Trading bot, Stock price tracker/price predictor<br>👯 I’m looking to collaborate on coding projects, and trading algorithms<br>🤝 I’m looking for help with expanding my knowledge in cybersecurity, and <br>🌱 I’m currently learning Java, C#, Pentesting, and network systems<br>💬 Ask me about my Linux config<br>⚡ Fun fact I want to learn Fortran like it 1975<br>
+👯 I’m looking to collaborate on coding projects, and trading algorithms<br>🤝 I’m looking for help with expanding my knowledge in cybersecurity, and <br>🌱 I’m currently learning Java, C#, Pentesting, and network systems<br>💬 Ask me about my Linux config<br>⚡ Fun fact I want to learn Fortran like it 1975<br>
 
 
 ## 🌐 Socials:
